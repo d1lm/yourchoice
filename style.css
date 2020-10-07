@@ -1,0 +1,43 @@
+img {
+  margin-top: -180px;
+  max-width: 100%;
+  height: auto;
+}
+.ui.borderless.topmenu.menu {
+  border-color: transparent;
+  margin-top: 50px;
+}
+
+.ui.borderless.middlemenu.menu {
+  border-color: transparent;
+  margin-top: 25px;
+}
+.ui.borderless.menu {
+  border-color: #383838;
+}
+
+.ui.centered.image {
+  border-color: transparent;
+  margin-top: -50px;
+}
+a.menu2 {
+  color: white;
+  font-family: Josefin Sans;
+}
+
+.footer-background {
+  background-color: #383838;
+  height: 300px;
+  border-color: transparent;
+  margin-top: 0px;
+}
+
+div.row {
+  color: white;
+  font-family: Josefin Sans;
+  text-align: center;
+}
+
+.ui.two.row.centered.grid.container {
+  margin-top: 0px;
+}
